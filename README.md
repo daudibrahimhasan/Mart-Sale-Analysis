@@ -1,4 +1,4 @@
-# 📊 Predicting Item Outlet Sales Using Linear Regression
+# 📊 Predicting Outlet Sales Using Linear Regression
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
